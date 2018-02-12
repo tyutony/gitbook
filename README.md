@@ -1,3 +1,4 @@
-# My Awesome Book
+# 爬蟲個人學習筆記
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+這邊記錄著小弟學習寫爬蟲的一些筆記、心得
+
