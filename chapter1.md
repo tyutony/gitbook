@@ -1,6 +1,4 @@
-# 建構爬蟲環境
+# 建構python的爬蟲環境
 
-由於本筆記使用的是python來查詢資料，
-
-
+http://pala.tw/python-web-crawler/
 
