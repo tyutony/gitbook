@@ -1,3 +1,6 @@
-# First Chapter
+# 建構爬蟲環境
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+由於本筆記使用的是python來查詢資料，
+
+
+
